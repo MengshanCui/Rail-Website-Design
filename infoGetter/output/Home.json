@@ -1,0 +1,132 @@
+{
+    "sections": [
+        {
+            "title": "XIANG LIU, Ph.D.",
+            "content": [
+                {
+                    "type": "p",
+                    "content": "Director of Rutgers Rail Program"
+                }
+            ]
+        },
+        {
+            "title": "About Me",
+            "content": [
+                {
+                    "type": "img",
+                    "src": "https://rail.rutgers.edu/img/xiangliu.jpg",
+                    "alt": "Professor Liu"
+                },
+                {
+                    "type": "p",
+                    "content": "Phone:"
+                },
+                {
+                    "type": "p",
+                    "content": "Email:"
+                },
+                {
+                    "type": "p",
+                    "content": "Office:"
+                },
+                {
+                    "type": "p",
+                    "content": "848-445-2868"
+                },
+                {
+                    "type": "p",
+                    "content": "xiang.liu@rutgers.edu"
+                },
+                {
+                    "type": "p",
+                    "content": "500 Bartholomew Road, Room 428D, Piscataway, NJ 08854"
+                },
+                {
+                    "type": "p",
+                    "content": "Dr. Xiang Liu is an Associate Professor in the Department of Civil and Environmental Engineering at Rutgers University. He is also the Director of the Rutgers Rail and Transit Program (RTP), leading and managing a portfolio of rail-centric research, education, and workforce development initiatives. Dr. Liu's research focuses on artificial intelligence (AI), big data, and automation technologies for improving rail operational safety and efficiency. Dr. Liu has published over 100 papers in peer-reviewed journals and international conferences. Dr. Liu’s rail & transit research has been supported by a variety of public and private sectors in the United States. Dr. Liu is the Associate Editor for the Journal of Rail Transport Planning & Management, and Journal of Smart and Resilient Transportation. Dr. Liu has received four “Best Paper” awards from the Transportation Research Board (TRB), the “Educator of the Year 2017” Award, and the “Researcher of the Year 2018”, both in New Jersey. In 2018, he received a “Rising Star” award from the Progressive Railroading magazine. Dr. Liu currently teaches several railroad courses at Rutgers. He is a Faculty Advisor to Rutgers AREMA Student Chapter. In 2019, he received the Young Alumnus Achievement Award from the Civil and Environmental Engineering Alumni Association at the University of Illinois at Urbana-Champaign. His students are employed across academia and industry, with placements at institutions such as Universtiy of Huston, Shanghai Jiaotong University, and companies such as Google, Meta, and Amazon."
+                }
+            ]
+        },
+        {
+            "title": "Research Interests",
+            "content": [
+                {
+                    "title": "AI Agent for Rail Transportation",
+                    "content": [
+                        {
+                            "type": "p",
+                            "content": "With advanced machine learning models including large language models (LLMs), our team analyzes large-scale datasets from local and nationwide rail companies to optimize decision-making processes, elevate service quality, and strengthen safety protocols."
+                        }
+                    ]
+                },
+                {
+                    "title": "AI for Infrastructure Management",
+                    "content": [
+                        {
+                            "type": "p",
+                            "content": "Our team contributes to the field by turning big infrastructure condition monitoring data into optimal inspection and maintenance decisions, using data analytical and artificial intelligence approaches."
+                        }
+                    ]
+                },
+                {
+                    "title": "Smart Train and Vehicle Technologies",
+                    "content": [
+                        {
+                            "type": "p",
+                            "content": "Our research explores advanced materials, methodologies and technologies (sensing, automation, communications) to improve the design, operation, maintenance and management of trains and railway vehicles."
+                        }
+                    ]
+                },
+                {
+                    "title": "Next Generation Train Control and Communications Technologies",
+                    "content": [
+                        {
+                            "type": "p",
+                            "content": "Our research focuses on designing, developing and testing next generation signaling, control and communications technologies for rail and transit industries."
+                        }
+                    ]
+                },
+                {
+                    "title": "Human Factors In Rail and Transit",
+                    "content": [
+                        {
+                            "type": "p",
+                            "content": "Our research uses AI, mathematical modeling and risk analyses to understand human factors and crowd movements in rail and transit environment (e.g. in transit stations, near grade crossings)."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Honors & Awards",
+            "content": [
+                {
+                    "type": "ol",
+                    "content": [
+                        "Alumni Association Young Alumnus Achievement Award, Civil and Environmental Engineering, University of Illinois at Urbana-Champaign, 2020",
+                        "Central NJ Researcher of the Year Award, 2018",
+                        "The RPM safety project (sponsored by NJDOT) was recognized in AASHTO (American Association of State Highway and Transportation Officials) Research Advisory Committee Safety Brochure in 2018.",
+                        "A. Walter Tyson Assistant Professor Award, Rutgers School of Engineering, 2018",
+                        "\"Rising Star\" Award, Progressive Railroading, 2018",
+                        "Outstanding Paper Award, Transportation Research Board (TRB) Hazardous Materials Transportation (AT040) Committee, 2018",
+                        "Educator of the Year Award, ASCE New Jersey, 2017",
+                        "Outstanding Paper Award, Transportation Research Board (TRB) Hazardous Materials Transportation  (AT040) Committee, 2017",
+                        "Young Member Best Paper Award, Rail Operational Safety Committee (AR070), Transportation Research Board of U.S. National Research Council, 2017",
+                        "Transportation Research Board (TRB) Hazardous Materials Transportation  (AT040) Committee Outstanding Contribution Award, 2016",
+                        "International Society for Risk Analysis Travel Grant for Attending the World Congress on Risk, 2015",
+                        "Best Young Member Paper Award, Rail Operational Safety Committee (AR070), Transportation Research Board of U.S. National Research Council, 2014",
+                        "American Society of Mechanical Engineers Rail Transportation Division Fall Technical Conference Scholarship, 2013",
+                        "Society for Risk Analysis – Risk, Law & Policy Merit Award, 2013",
+                        "American Railway Engineering and Maintenance-of-Way Association Educational Foundation Scholarship, 2013",
+                        "Society for Risk Analysis Annual Meeting Travel Award, 2013",
+                        "U.S. DOT Dwight David Eisenhower Transportation Fellowship, 2012",
+                        "Society for Risk Analysis International Travel Award, 2012",
+                        "American Railway Engineering and Maintenance-of-Way Association Committee 12 Rail Transit Scholarship, 2010",
+                        "American Association of Railroad Superintendents Frank J. Richter Scholarship, 2010"
+                    ]
+                }
+            ]
+        }
+    ],
+    "resources": {}
+}

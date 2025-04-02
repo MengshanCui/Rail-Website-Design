@@ -1,0 +1,1041 @@
+{
+    "sections": [
+        {
+            "title": "XIANG LIU, Ph.D.",
+            "content": [
+                {
+                    "type": "p",
+                    "content": "Director of Rutgers Rail Program"
+                }
+            ]
+        },
+        {
+            "title": "Group Members",
+            "content": [
+                {
+                    "type": "img",
+                    "src": "https://rail.rutgers.edu/img/ZezhouWang.jpg",
+                    "alt": "Zezhou Wang"
+                },
+                {
+                    "type": "p",
+                    "content": "Zezhou Wang"
+                },
+                {
+                    "type": "p",
+                    "content": "Zezhou is a Ph.D. student in Civil Engineering and Master’s student in Electrical and Computer Engineering at Rutgers University. His research focuses on railroad signal and control. He received his B.S. from Beihang University in Electrical and Computer Engineering and M.S. from University of Illinois at Urbana Champaign in Civil Engineering."
+                },
+                {
+                    "type": "p",
+                    "content": "Publication:"
+                },
+                {
+                    "type": "p",
+                    "content": "Wang, Z., Shlake, B.W., Mulay, N., Zaman, A., Liu, X. (2023).Development and Testing of A UWB-based Vehicle-to-Vehicle (V2V) Ranging System for Self-Propelled Rail Vehicles.IEEE Transactions on Vehicular Technology.",
+                    "links": [
+                        {
+                            "href": "https://rail.rutgers.edu/files/Wang_2023_Development_and_Testing_of_a_UWB-based_Vehicle-to-Vehicle_V2V_Ranging_System_for_Self-Propelled_Rail_Vehicles.pdf",
+                            "text": "Development and Testing of A UWB-based Vehicle-to-Vehicle (V2V) Ranging System for Self-Propelled Rail Vehicles."
+                        }
+                    ]
+                },
+                {
+                    "type": "p",
+                    "content": "Wang, Z., Liu, X. (2022).Cyber security of railway cyber-physical system (CPS) – A risk management methodology.Communications in Transportation Research, 2, 100078.",
+                    "links": [
+                        {
+                            "href": "https://rail.rutgers.edu/files/Wang_2022_Rail%20Cyber%20Security.pdf",
+                            "text": "Cyber security of railway cyber-physical system (CPS) – A risk management methodology."
+                        }
+                    ]
+                },
+                {
+                    "type": "p",
+                    "content": "Wang, Z., Khatavkar, Y., James, R., Liu, X.Applications of Ultra-wideband Technology in Future Rail Industry: Position Paper for North America Railroad Context.APM-ATS 2020.",
+                    "links": [
+                        {
+                            "href": "https://rail.rutgers.edu/files/",
+                            "text": "Applications of Ultra-wideband Technology in Future Rail Industry: Position Paper for North America Railroad Context."
+                        }
+                    ]
+                },
+                {
+                    "type": "p",
+                    "content": "Wang, Z., Mussanov, D., Dick, T.Scheduling and Routing Roaming Conductors to Support Single-Person Crew Operations on North American Freight Railways.IAROR 2019.",
+                    "links": [
+                        {
+                            "href": "https://rail.rutgers.edu/files/",
+                            "text": "Scheduling and Routing Roaming Conductors to Support Single-Person Crew Operations on North American Freight Railways."
+                        }
+                    ]
+                },
+                {
+                    "type": "p",
+                    "content": "Wang, Z., Liu, X., Wang Y., Yavvari, C., Jablonskim N., Wijesekera, D., Sykes, B., Holt, K.Cyber Security Analysis for Advanced Train Control System (ATCS) in CTC Systems: Concepts and Methods.ASME JRC, 2019.",
+                    "links": [
+                        {
+                            "href": "https://rail.rutgers.edu/files/",
+                            "text": "Cyber Security Analysis for Advanced Train Control System (ATCS) in CTC Systems: Concepts and Methods."
+                        }
+                    ]
+                },
+                {
+                    "type": "p",
+                    "content": "Wandelt, S.,Wang, Z., Sun, X.Worldwide Railway Skeleton Network: Extraction Methodology and Preliminary Analysis.IEEE Trans on ITS, 2016.",
+                    "links": [
+                        {
+                            "href": "https://rail.rutgers.edu/files/",
+                            "text": "Worldwide Railway Skeleton Network: Extraction Methodology and Preliminary Analysis."
+                        }
+                    ]
+                },
+                {
+                    "type": "img",
+                    "src": "https://rail.rutgers.edu/img/AsimZaman.jpg",
+                    "alt": "Asim Francis Zaman"
+                },
+                {
+                    "type": "p",
+                    "content": "Asim Francis Zaman"
+                },
+                {
+                    "type": "p",
+                    "content": "Asim Zaman is a Ph.D. student in Civil Engineering at Rutgers University. His research addresses utilizing Artificial Intelligence for transportation safety and risk management. Asim received his B.S. degree in Civil Engineering from the New Jersey Institute of Technology in Newark NJ, 2014 and M.S. in Civil Engineering from Rutgers in 2018. He worked as a senior engineer for the New Jersey Department of Transportation from 2014 – 2021 and now works as a Project Engineer at Rutgers CAIT."
+                },
+                {
+                    "type": "p",
+                    "content": "Publication:"
+                },
+                {
+                    "type": "p",
+                    "content": "Zaman, A., Huang, Z., Li, W., Qin, H., Kang, D., Liu, X. (2023).Artificial Intelligence-Aided Grade Crossing Safety Violation Detection Methodology and a Case Study in New Jersey.Transportation Research Record.",
+                    "links": [
+                        {
+                            "href": "https://rail.rutgers.edu/files/Zaman_2023_AIGradeCrossing.pdf",
+                            "text": "Artificial Intelligence-Aided Grade Crossing Safety Violation Detection Methodology and a Case Study in New Jersey."
+                        }
+                    ]
+                },
+                {
+                    "type": "p",
+                    "content": "Zaman, A., Ren, B.Z., Liu, X. (2019)Artificial Intelligence-Aided Automated Detection of Railroad Trespassing.Transportation Research Record",
+                    "links": [
+                        {
+                            "href": "https://rail.rutgers.edu/files/Zaman_2019_TRR_Artificial%20intelligence%20aided%20automated%20detection%20of%20railroad%20trespassing.pdf",
+                            "text": "Artificial Intelligence-Aided Automated Detection of Railroad Trespassing."
+                        }
+                    ]
+                },
+                {
+                    "type": "p",
+                    "content": "Zaman, A., Ren, B.Z., Liu, X. (2019)Artificial Intelligence-Aided Automated Detection of Railroad Trespassing.TR News.",
+                    "links": [
+                        {
+                            "href": "https://rail.rutgers.edu/files/Zaman_2019_TRR_Artificial%20intelligence%20aided%20automated%20detection%20of%20railroad%20trespassing.pdf",
+                            "text": "Artificial Intelligence-Aided Automated Detection of Railroad Trespassing."
+                        }
+                    ]
+                },
+                {
+                    "type": "p",
+                    "content": "Zaman, A., Liu, X., Zhang, Z.P. (2018)Video Analytics for Railroad Safety Research: An Artificial Intelligence Approach.Transportation Research Record.",
+                    "links": [
+                        {
+                            "href": "https://rail.rutgers.edu/files/Video_Analytics.pdf",
+                            "text": "Video Analytics for Railroad Safety Research: An Artificial Intelligence Approach."
+                        }
+                    ]
+                },
+                {
+                    "type": "img",
+                    "src": "https://rail.rutgers.edu/img/WeitianLi.jpg",
+                    "alt": "Weitian Li"
+                },
+                {
+                    "type": "p",
+                    "content": "Weitian Li"
+                },
+                {
+                    "type": "p",
+                    "content": "Weitian Li is a Ph.D. student in Civil Engineering at Rutgers University. His research focuses on LiDAR analysis and infrastructure monitoring for railroads. He received his MS in Electrical and Computer Engineering from Rutgers University."
+                },
+                {
+                    "type": "p",
+                    "content": "Publication:"
+                },
+                {
+                    "type": "p",
+                    "content": "Li, W., Bian, Z., Liu, X. (2023).Statistical Analysis of Train Derailment Severity for Unit Trains Versus Manifest Trains.Transportation Research Record, 03611981231182989.",
+                    "links": [
+                        {
+                            "href": "https://rail.rutgers.edu/files/li-et-al-2023-statistical-analysis-of-train-derailment-severity-for-unit-trains-versus-manifest-trains.pdf",
+                            "text": "Statistical Analysis of Train Derailment Severity for Unit Trains Versus Manifest Trains."
+                        }
+                    ]
+                },
+                {
+                    "type": "p",
+                    "content": "Zaman, A., Huang, Z.,Li, W., Qin, H., Kang, D., Liu, X. (2023).Artificial Intelligence-Aided Grade Crossing Safety Violation Detection Methodology and a Case Study in New Jersey.Transportation Research Record, 03611981231163824.",
+                    "links": [
+                        {
+                            "href": "https://rail.rutgers.edu/files/Zaman_2023_AIGradeCrossing.pdf",
+                            "text": "Artificial Intelligence-Aided Grade Crossing Safety Violation Detection Methodology and a Case Study in New Jersey."
+                        }
+                    ]
+                },
+                {
+                    "type": "img",
+                    "src": "https://rail.rutgers.edu/img/HuixiongQin.jpg",
+                    "alt": "Huixiong Qin"
+                },
+                {
+                    "type": "p",
+                    "content": "Huixiong Qin"
+                },
+                {
+                    "type": "p",
+                    "content": "Huixiong is a Ph.D. student in Civil Engineering at Rutgers University. His research focuses on computer vision and software engineering for transportation applications. He received his B.S. in Mathematics from  Sichuan University and M.S. in Electrical & Computer Engineering from Rutgers."
+                },
+                {
+                    "type": "p",
+                    "content": "Publication:"
+                },
+                {
+                    "type": "p",
+                    "content": "Zaman, A., Huang, Z., Li, W.,Qin, H., Kang, D., Liu, X. (2023).Artificial Intelligence-Aided Grade Crossing Safety Violation Detection Methodology and a Case Study in New Jersey.Transportation Research Record, 03611981231163824.",
+                    "links": [
+                        {
+                            "href": "https://rail.rutgers.edu/files/Zaman_2023_AIGradeCrossing.pdf",
+                            "text": "Artificial Intelligence-Aided Grade Crossing Safety Violation Detection Methodology and a Case Study in New Jersey."
+                        }
+                    ]
+                },
+                {
+                    "type": "p",
+                    "content": "Qin, H., Zaman, A., Liu, X. (2023).Artificial intelligence-aided intelligent obstacle and trespasser detection based on locomotive-mounted forward-facing camera data.Proceedings of the Institution of Mechanical Engineers, Part F: Journal of Rail and Rapid Transit, 09544097231156312.",
+                    "links": [
+                        {
+                            "href": "https://rail.rutgers.edu/files/Qin_2023_Forward%20Facing%20AI.pdf",
+                            "text": "Artificial intelligence-aided intelligent obstacle and trespasser detection based on locomotive-mounted forward-facing camera data."
+                        }
+                    ]
+                },
+                {
+                    "type": "img",
+                    "src": "https://rail.rutgers.edu/img/MulinWan.png",
+                    "alt": "Mulin Wan"
+                },
+                {
+                    "type": "p",
+                    "content": "Mulin Wan"
+                },
+                {
+                    "type": "p",
+                    "content": "Mulin is a Ph.D. student in Civil Engineering at Rutgers University. His research focuses on rail network modeling. He received his B.S. in Electrical Engineering from Beijing Jiaotong University and M.S. in Civil Engineering from University of Illinois at Urbana-Champaign."
+                },
+                {
+                    "type": "img",
+                    "src": "https://rail.rutgers.edu/img/JohnNg.jpg",
+                    "alt": "John Ng"
+                },
+                {
+                    "type": "p",
+                    "content": "John Ng"
+                },
+                {
+                    "type": "p",
+                    "content": "John is a Master's student in Civil Engineering at Rutgers University. His research applies computer vision to improve rail operations and safety. He received his B.S. in Civil Engineering from Manhattan College in 2023."
+                }
+            ]
+        },
+        {
+            "title": "Alumni",
+            "content": [
+                {
+                    "type": "img",
+                    "src": "https://rail.rutgers.edu/img/QinyuanLiu.jpg",
+                    "alt": "Qinyuan Liu"
+                },
+                {
+                    "type": "p",
+                    "content": "Qinyuan Liu"
+                },
+                {
+                    "type": "p",
+                    "content": "Qinyuan completed his B.S. in Computer Science at Rutgers University, New Brunswick, in May 2023. He is currently furthering his education in the M.S.E. Computer Science program at Johns Hopkins University. During his time in the lab, his main contributions were instrumental in the development of train gate detection algorithms and the process of weekly validation."
+                },
+                {
+                    "type": "img",
+                    "src": "https://rail.rutgers.edu/img/ShuohaoPing.jpg",
+                    "alt": "Shuohao Ping"
+                },
+                {
+                    "type": "p",
+                    "content": "Shuohao Ping"
+                },
+                {
+                    "type": "p",
+                    "content": "Shuohao received his B.S. in computer science and B.A. in mathematics from Rutgers University, New Brunswick in May 2023. He is now a master student at University of California, Los Angeles. During his time in the lab, he conducted several research projects including railway suicidal detection and designing database cleaning algorithms for the IGCT database."
+                },
+                {
+                    "type": "img",
+                    "src": "https://rail.rutgers.edu/img/DiKang.jpg",
+                    "alt": "Di Kang"
+                },
+                {
+                    "type": "p",
+                    "content": "Di Kang"
+                },
+                {
+                    "type": "p",
+                    "content": "Di is a Ph.D. student in Civil Engineering at Rutgers University. Her research focuses on rail system risk analyses. She received her B.S. from Nanjing University of Aeronautics and Astronautics in Air Transportation. She received her M.S. from the University of Virginia and University of Minnesota in Civil Engineering & Industrial Engineering."
+                },
+                {
+                    "type": "p",
+                    "content": "Publication:"
+                },
+                {
+                    "type": "p",
+                    "content": "Kang, D., Zhao, J., Dick, C.T., Liu, X., Lin, C.Y., Bian, Z., Kirkpatrick, S.W. (2024).Quantifying the influence of tank car position and train configuration on the risk of rail transport of class 3 flammable liquids.Transportation Research Record, 03611981241274649.",
+                    "links": [
+                        {
+                            "href": "https://rail.rutgers.edu/files/kang-et-al-2024-quantifying-the-influence-of-tank-car-position.pdf",
+                            "text": "Quantifying the influence of tank car position and train configuration on the risk of rail transport of class 3 flammable liquids."
+                        }
+                    ]
+                },
+                {
+                    "type": "p",
+                    "content": "Kang, D., Dai, J., Liu, X., Bian, Z., Zaman, A., Wang, X. (2024).Estimating the occurrence of broken rails in commuter railroads with machine learning algorithms.Proceedings of the Institution of Mechanical Engineers, Part F: Journal of Rail and Rapid Transit, 09544097241280848.",
+                    "links": [
+                        {
+                            "href": "https://rail.rutgers.edu/files/kang-et-al-2024-estimating-the-occurrence-of-broken-rails-in-commuter-railroads-with-machine-learning-algorithms.pdf",
+                            "text": "Estimating the occurrence of broken rails in commuter railroads with machine learning algorithms."
+                        }
+                    ]
+                },
+                {
+                    "type": "p",
+                    "content": "Kang, D., Kirkpatrick, S. W., Zhang, Z., Liu, X., Bian, Z. (2024).Freight train derailment severity prediction: a physics-informed one-dimensional model.Smart and Resilient Transportation.",
+                    "links": [
+                        {
+                            "href": "https://rail.rutgers.edu/files/Kang_2024_Physics%20informed%20severity%20model.pdf",
+                            "text": "Freight train derailment severity prediction: a physics-informed one-dimensional model."
+                        }
+                    ]
+                },
+                {
+                    "type": "p",
+                    "content": "Kang, D., Zhao, J., Dick, C.T., Liu, X., Bian, Z.Y., Kirkpatrick, S.W., Lin, C.Y. (2023).Probabilistic risk analysis of unit trains versus manifest trains for transporting hazardous materials.Accident Analysis and Prevention, 181, 106950.",
+                    "links": [
+                        {
+                            "href": "https://rail.rutgers.edu/files/Kang%20et%20al_2023_AAP_Hazmat%20risk.pdf",
+                            "text": "Probabilistic risk analysis of unit trains versus manifest trains for transporting hazardous materials."
+                        }
+                    ]
+                },
+                {
+                    "type": "img",
+                    "src": "https://rail.rutgers.edu/img/XinWang.jpg",
+                    "alt": "Xin Wang"
+                },
+                {
+                    "type": "p",
+                    "content": "Xin Wang"
+                },
+                {
+                    "type": "p",
+                    "content": "Xin completed his Ph.D. in Civil Engineering at Rutgers University. Now he holds a position at Tongji University. His research focuses artificial intelligence for rail applications.  He received his B.S. and M.S. from Southwest Jiaotong University in Civil Engineering."
+                },
+                {
+                    "type": "p",
+                    "content": "Publication:"
+                },
+                {
+                    "type": "p",
+                    "content": "Wang, X., Dai, J., Liu, X. (2025).A spatial-temporal neural network based on ResNet-Transformer for predicting railroad broken rails.Advanced Engineering Informatics, 65, 103126.",
+                    "links": [
+                        {
+                            "href": "https://rail.rutgers.edu/files/Wang_2025_ResNet_for_broken_rail.pdf",
+                            "text": "A spatial-temporal neural network based on ResNet-Transformer for predicting railroad broken rails."
+                        }
+                    ]
+                },
+                {
+                    "type": "p",
+                    "content": "Wang, X., Liu, X., Bai, Y. (2024).Prediction of the temperature of diesel engine oil in railroad locomotives using compressed information-based data fusion method with attention-enhanced CNN-LSTM.Applied Energy, 367, 123357.",
+                    "links": [
+                        {
+                            "href": "https://rail.rutgers.edu/files/Wang%20et%20al_2024_Applied%20Energy_Temperature%20prediction.pdf",
+                            "text": "Prediction of the temperature of diesel engine oil in railroad locomotives using compressed information-based data fusion method with attention-enhanced CNN-LSTM."
+                        }
+                    ]
+                },
+                {
+                    "type": "p",
+                    "content": "Wang, X., Bai, Y., Liu, X. (2023).Prediction of railroad track geometry change using a hybrid CNN-LSTM spatial-temporal model.Advanced Engineering Informatics, 58, 102235.",
+                    "links": [
+                        {
+                            "href": "https://rail.rutgers.edu/files/Wang_2023_LSTM%20CNN%20for%20Track%20Geometry.pdf",
+                            "text": "Prediction of railroad track geometry change using a hybrid CNN-LSTM spatial-temporal model."
+                        }
+                    ]
+                },
+                {
+                    "type": "p",
+                    "content": "Wang, X., Liu, X., Euston, T.L. (2023).Relationship between track geometry defect occurrence and substructure condition: A case study on one passenger railroad in the United States.Construction and Building Materials, 365, 130066.",
+                    "links": [
+                        {
+                            "href": "https://rail.rutgers.edu/files/Wang_2022_Track%20Geometry%20and%20Subcondition.pdf",
+                            "text": "Relationship between track geometry defect occurrence and substructure condition: A case study on one passenger railroad in the United States."
+                        }
+                    ]
+                },
+                {
+                    "type": "p",
+                    "content": "Wang, X., Liu, X., Bian, Z. (2022).A machine learning based methodology for broken rail prediction on freight railroads: A case study in the United States.Construction and Building Materials, 346, 128353.",
+                    "links": [
+                        {
+                            "href": "https://rail.rutgers.edu/files/Wang_2022_Broken%20Rail%20Prediction.pdf",
+                            "text": "A machine learning based methodology for broken rail prediction on freight railroads: A case study in the United States."
+                        }
+                    ]
+                },
+                {
+                    "type": "p",
+                    "content": "Wang, Y., Wang, P.,Wang, X., Liu, X.Position synchronization for track geometry inspection data via big-data fusion and incremental learning.Transportation Research Part C: Emerging Technologies 93 (2018): 544-565.",
+                    "links": [
+                        {
+                            "href": "https://rail.rutgers.edu/files/Wang_Big_Data.pdf",
+                            "text": "Position synchronization for track geometry inspection data via big-data fusion and incremental learning."
+                        }
+                    ]
+                },
+                {
+                    "type": "img",
+                    "src": "https://rail.rutgers.edu/img/JunyanDai.jpg",
+                    "alt": "Junyan Dai"
+                },
+                {
+                    "type": "p",
+                    "content": "Junyan Dai"
+                },
+                {
+                    "type": "p",
+                    "content": "Junyan completed his M.S. in Civil Engineering at Rutgers University. His research focuses on Intelligent Transportation Systems and big data analysis for railroads. He received his B.S. in Computer Science from Rutgers University. Junyan is now employed at Google."
+                },
+                {
+                    "type": "p",
+                    "content": "Publication:"
+                },
+                {
+                    "type": "p",
+                    "content": "Wang, X.,Dai, J., Liu, X. (2025).A spatial-temporal neural network based on ResNet-Transformer for predicting railroad broken rails.Advanced Engineering Informatics, 65, 103126.",
+                    "links": [
+                        {
+                            "href": "https://rail.rutgers.edu/files/Wang_2025_ResNet_for_broken_rail.pdf",
+                            "text": "A spatial-temporal neural network based on ResNet-Transformer for predicting railroad broken rails."
+                        }
+                    ]
+                },
+                {
+                    "type": "p",
+                    "content": "Kang, D.,Dai, J., Liu, X., Bian, Z., Zaman, A., Wang, X. (2024).Estimating the occurrence of broken rails in commuter railroads with machine learning algorithms.Proceedings of the Institution of Mechanical Engineers, Part F: Journal of Rail and Rapid Transit, 09544097241280848.",
+                    "links": [
+                        {
+                            "href": "https://rail.rutgers.edu/files/kang-et-al-2024-estimating-the-occurrence-of-broken-rails-in-commuter-railroads-with-machine-learning-algorithms.pdf",
+                            "text": "Estimating the occurrence of broken rails in commuter railroads with machine learning algorithms."
+                        }
+                    ]
+                },
+                {
+                    "type": "p",
+                    "content": "Dai, J., Liu, X. (2022).Machine learning based prediction of rail transit signal failure: A case study in the United States.Proceedings of the Institution of Mechanical Engineers, Part F: Journal of Rail and Rapid Transit, 09544097221127781.",
+                    "links": [
+                        {
+                            "href": "https://rail.rutgers.edu/files/Dai%20and%20Liu_JRRT_Machine%20Learning%20for%20Rail%20Signal%20Failure%20Prediction.pdf",
+                            "text": "Machine learning based prediction of rail transit signal failure: A case study in the United States."
+                        }
+                    ]
+                },
+                {
+                    "type": "img",
+                    "src": "https://rail.rutgers.edu/img/unknown.jpg",
+                    "alt": "Dhiraj Deelip Gandhi"
+                },
+                {
+                    "type": "p",
+                    "content": "Dhiraj Deelip Gandhi"
+                },
+                {
+                    "type": "p",
+                    "content": "Dhiraj received his M.S. in Computer Science from Rutgers. He is now a software engineer at Google. His research focuses artificial and railroad safety. He received his Bachelor of Technology degree from Visvesvaraya National Institute Of Technology, India in Computer Science and Engineering."
+                },
+                {
+                    "type": "img",
+                    "src": "https://rail.rutgers.edu/img/kangzhou.jpg",
+                    "alt": "Kang Zhou"
+                },
+                {
+                    "type": "p",
+                    "content": "Kang Zhou"
+                },
+                {
+                    "type": "p",
+                    "content": "Kang completed his Ph.D. in Civil Engineering at Rutgers University in December 2019. His research addresses railroad big data analytics."
+                },
+                {
+                    "type": "p",
+                    "content": "Publication:"
+                },
+                {
+                    "type": "p",
+                    "content": "Zhou, K., Liu, X. (2018).A review of influencing factors and statistical prediction models for broken rails on freight railroads.(under review).",
+                    "links": [
+                        {
+                            "href": "https://rail.rutgers.edu/files/",
+                            "text": "A review of influencing factors and statistical prediction models for broken rails on freight railroads."
+                        }
+                    ]
+                },
+                {
+                    "type": "p",
+                    "content": "Zhou, K., Chen. J.H., Liu, X. (2018).Optimal collision-avoidance maneuvers to minimize bunker consumption under the two-ship crossing situation.Journal of Navigation, 71: 151–168.",
+                    "links": [
+                        {
+                            "href": "https://rail.rutgers.edu/files/Zhou_Navigation_Ship_Collision.pdf",
+                            "text": "Optimal collision-avoidance maneuvers to minimize bunker consumption under the two-ship crossing situation."
+                        }
+                    ]
+                },
+                {
+                    "type": "p",
+                    "content": "Zhou, K., Liu, X., Zhou, Y. (2017).Prioritization of rail defect inspection: a risk-based optimization approach.Proceedings of Annual Meeting of Transportation Research Board, Washington D.C.",
+                    "links": [
+                        {
+                            "href": "https://rail.rutgers.edu/files/TRB17_Rail_Defect_Inspection.pdf",
+                            "text": "Prioritization of rail defect inspection: a risk-based optimization approach."
+                        }
+                    ]
+                },
+                {
+                    "type": "p",
+                    "content": "Zhou, K., Liu, X. (2017).Risk-informed ultrasonic rail defect inspection frequency optimization.2017 Joint Rail Conference, Philadelphia, PA.",
+                    "links": [
+                        {
+                            "href": "https://rail.rutgers.edu/files/JRC2017_kang.pdf",
+                            "text": "Risk-informed ultrasonic rail defect inspection frequency optimization."
+                        }
+                    ]
+                },
+                {
+                    "type": "img",
+                    "src": "https://rail.rutgers.edu/img/zheyongbian.jpg",
+                    "alt": "Zheyong Bian"
+                },
+                {
+                    "type": "p",
+                    "content": "Zheyong Bian"
+                },
+                {
+                    "type": "p",
+                    "content": "Zheyong completed his Ph.D. in Civil Engineering at Rutgers University in December 2020.  He is now an Assistant Professor at University of Houston. His research focuses on operations research, logistics optimization and freight transportation. He received a B.S. and M.S., both in Industrial Engineering, from Tianjin University, China."
+                },
+                {
+                    "type": "p",
+                    "content": "Publication:"
+                },
+                {
+                    "type": "p",
+                    "content": "Zhang, Z.P., Liu, X.,Bian, Z.Y.(2018).Analysis of restricted-speed accidents using fault tree analysis.(under review).",
+                    "links": [
+                        {
+                            "href": "https://rail.rutgers.edu/files/",
+                            "text": "Analysis of restricted-speed accidents using fault tree analysis."
+                        }
+                    ]
+                },
+                {
+                    "type": "p",
+                    "content": "Bian, Z.Y., Liu, X. (2019).Mechanism design for first-mile ridesharing based on personalized requirements part II: solution algorithm for large-scale problems.Transportation Research Part B - Methodological, 120: 172-192.",
+                    "links": [
+                        {
+                            "href": "https://rail.rutgers.edu/files/Bian_2019_Part2.pdf",
+                            "text": "Mechanism design for first-mile ridesharing based on personalized requirements part II: solution algorithm for large-scale problems."
+                        }
+                    ]
+                },
+                {
+                    "type": "p",
+                    "content": "Bian, Z.Y., Liu, X. (2019).Mechanism design for first-mile ridesharing based on personalized requirements part I: theoretical analysis in generalized scenarios.Transportation Research Part B - Methodological, 120: 147-171.",
+                    "links": [
+                        {
+                            "href": "https://rail.rutgers.edu/files/Bian_2019_Part1.pdf",
+                            "text": "Mechanism design for first-mile ridesharing based on personalized requirements part I: theoretical analysis in generalized scenarios."
+                        }
+                    ]
+                },
+                {
+                    "type": "p",
+                    "content": "Deng, J.Y., Liu, X., Jing, G.Q.,Bian, Z.Y.(2018).Probabilistic risk analysis of flying ballast hazard on high-speed rail lines.Transportation Research Part C, 93: 396–409.",
+                    "links": [
+                        {
+                            "href": "https://rail.rutgers.edu/files/Deng_Bian_TRC_Flying_Ballast.pdf",
+                            "text": "Probabilistic risk analysis of flying ballast hazard on high-speed rail lines."
+                        }
+                    ]
+                },
+                {
+                    "type": "p",
+                    "content": "Bian, Z.Y., Liu, X. (2018).A real time adjustment strategy for operational-level stochastic orienteering problem: a simulation-aided optimization approach.Transportation Research Part E, 115: 246–266.",
+                    "links": [
+                        {
+                            "href": "https://rail.rutgers.edu/files/Bian_2018_TRE_Stochastic_Reorienting.pdf",
+                            "text": "A real time adjustment strategy for operational-level stochastic orienteering problem: a simulation-aided optimization approach."
+                        }
+                    ]
+                },
+                {
+                    "type": "p",
+                    "content": "Ma, X.P., Dong, H.H., Jia, L.M., Liu, X.,Bian, Z.Y.(2018).An optimal communications protocol for maximizing lifetime of railway infrastructure wireless monitoring network.IEEE Transactions on Industrial Informatics, 14(8): 3347-3357.",
+                    "links": [
+                        {
+                            "href": "https://rail.rutgers.edu/files/08233201.pdf",
+                            "text": "An optimal communications protocol for maximizing lifetime of railway infrastructure wireless monitoring network."
+                        }
+                    ]
+                },
+                {
+                    "type": "p",
+                    "content": "Bian, Z.Y., Liu, X. (2017).Planning the ridesharing route for the first-mile service linking to railway passenger transportation.2017 Joint Rail Conference.Philadelphia, PA.",
+                    "links": [
+                        {
+                            "href": "https://rail.rutgers.edu/files/bian2017.pdf",
+                            "text": "Planning the ridesharing route for the first-mile service linking to railway passenger transportation."
+                        }
+                    ]
+                },
+                {
+                    "type": "p",
+                    "content": "Lin, Y.,Bian, Z.Y., Liu, X. (2016).Developing a dynamic neighborhood structure for an adaptive hybrid simulated annealing - tabu search algorithm to solve the symmetrical traveling salesman problem.Journal of Applied Soft Computing, 49, 937-952.",
+                    "links": [
+                        {
+                            "href": "https://rail.rutgers.edu/files/Lin2017.pdf",
+                            "text": "Developing a dynamic neighborhood structure for an adaptive hybrid simulated annealing - tabu search algorithm to solve the symmetrical traveling salesman problem."
+                        }
+                    ]
+                },
+                {
+                    "type": "p",
+                    "content": "Award/Honor:"
+                },
+                {
+                    "type": "p",
+                    "content": "ASME Rail Transportation Division (RTD)  Graduate Student Conference Scholarship"
+                },
+                {
+                    "type": "img",
+                    "src": "https://rail.rutgers.edu/img/Zhipeng.jpeg",
+                    "alt": "Zhipeng Zhang"
+                },
+                {
+                    "type": "p",
+                    "content": "Zhipeng Zhang"
+                },
+                {
+                    "type": "p",
+                    "content": "Zhipeng completed his Ph.D. in Civil Engineering at Rutgers University in May 2020. He is now an Assistant Professor at Shanghai Jiaotong University. His research focuses on transportation safety and risk analysis of railroad engineering. He obtained his B.S. from Beijing Jiaotong University in 2015 and a M.S. in Civil Engineering from the University of Illinois at Urbana-Champaign in 2016."
+                },
+                {
+                    "type": "p",
+                    "content": "Publication:"
+                },
+                {
+                    "type": "p",
+                    "content": "Zhang, Z.P., Liu, X., Holt, K.(2019).Prevention of end-of-track collisions at passenger terminals via positive train control.Transportation Research Record: Journal of the Transportation Research Board.",
+                    "links": [
+                        {
+                            "href": "https://rail.rutgers.edu/files/Zhang_TRR2019_PTC%20for%20End%20of%20Track%20Collision.pdf",
+                            "text": "Prevention of end-of-track collisions at passenger terminals via positive train control."
+                        }
+                    ]
+                },
+                {
+                    "type": "p",
+                    "content": "Zhang, Z.P., Liu, X.(2018).Safety risk analysis of restricted-speed train accidents in the United States.(in press).",
+                    "links": [
+                        {
+                            "href": "https://rail.rutgers.edu/files/Zhang_Safety%20Risk%20Analysis%20of%20Restricted-Speed%20Train%20Accidents%20in%20the%20United%20States.pdf",
+                            "text": "Safety risk analysis of restricted-speed train accidents in the United States."
+                        }
+                    ]
+                },
+                {
+                    "type": "p",
+                    "content": "Zhang, Z.P., Liu, X., Bian, Z.Y. (2018).Analysis of restricted-speed accidents using fault tree analysis.(under review).",
+                    "links": [
+                        {
+                            "href": "https://rail.rutgers.edu/files/",
+                            "text": "Analysis of restricted-speed accidents using fault tree analysis."
+                        }
+                    ]
+                },
+                {
+                    "type": "p",
+                    "content": "Zhang, Z.P., Trivedi, C.B., Liu, X. (2018).Automated detection of grade-crossing-trespassing near misses based on computer vision analysis of surveillance video data.Safety Science, 110(B): 276-285.",
+                    "links": [
+                        {
+                            "href": "https://rail.rutgers.edu/files/Detection_Safety_Scien.pdf",
+                            "text": "Automated detection of grade-crossing-trespassing near misses based on computer vision analysis of surveillance video data."
+                        }
+                    ]
+                },
+                {
+                    "type": "p",
+                    "content": "Turla, T., Liu, X.,Zhang, Z.P.(2018).Analysis of freight train collision risk in the United States.Proc IMechE Part F: J Rail and Rapid Transit, 0(0): 1–14.",
+                    "links": [
+                        {
+                            "href": "https://rail.rutgers.edu/files/Turla_JRRT_2018_CollisionRisk.pdf",
+                            "text": "Analysis of freight train collision risk in the United States."
+                        }
+                    ]
+                },
+                {
+                    "type": "p",
+                    "content": "Zaman, A., Liu, X.,Zhang, Z.P.(2018).Video analytics for railroad safety research: an artificial intelligence approach.Transportation Research Record: Journal of the Transportation Research Board, 00(0): 1–9.",
+                    "links": [
+                        {
+                            "href": "https://rail.rutgers.edu/files/Video_Analytics.pdf",
+                            "text": "Video analytics for railroad safety research: an artificial intelligence approach."
+                        }
+                    ]
+                },
+                {
+                    "type": "p",
+                    "content": "Li, W., Roscoe, G.S.,Zhang, Z.P., Saat, M. R., Barkan, C.P.L. (2018).Comparison of loaded and empty unit train derailment characteristics.TRB18-05260.",
+                    "links": [
+                        {
+                            "href": "https://rail.rutgers.edu/files/Comparison_ZZP.pdf",
+                            "text": "Comparison of loaded and empty unit train derailment characteristics."
+                        }
+                    ]
+                },
+                {
+                    "type": "p",
+                    "content": "Zhang, Z.P., Liu, X. (2018).Positive Train Control (PTC) for railway safety in the United States: policy developments and critical issues.Utilities Policy, 51: 33-40.",
+                    "links": [
+                        {
+                            "href": "https://rail.rutgers.edu/files/Zhang_2018_UtilitiesPolicy_PTC.pdf",
+                            "text": "Positive Train Control (PTC) for railway safety in the United States: policy developments and critical issues."
+                        }
+                    ]
+                },
+                {
+                    "type": "p",
+                    "content": "Liu, X., Turla, T.,Zhang, Z.P.(2018).Accident-cause-specific risk analysis for rail transport of hazardous materials.Transportation Research Record, 00(0): 1–12.",
+                    "links": [
+                        {
+                            "href": "https://rail.rutgers.edu/files/Liu_TRR18.pdf",
+                            "text": "Accident-cause-specific risk analysis for rail transport of hazardous materials."
+                        }
+                    ]
+                },
+                {
+                    "type": "img",
+                    "src": "https://rail.rutgers.edu/img/HuiyueTang.jpg",
+                    "alt": "Huiyue Tang"
+                },
+                {
+                    "type": "p",
+                    "content": "Huiyue Tang"
+                },
+                {
+                    "type": "p",
+                    "content": "Huiyue was a visiting Ph.D student in Civil Engineering at Rutgers University and is now a Post Doc in China. She received her B.S. in Electrical Engineering at Southwest Jiaotong University in 2014. Her research interests lie in automatic train control, reinforcement learning based optimization and control techniques, robust and adaptive control, rail measurement techniques."
+                },
+                {
+                    "type": "p",
+                    "content": "Publication:"
+                },
+                {
+                    "type": "p",
+                    "content": "Wang, Y., Wang, P.,Tang, H.Y., Liu, X. (2018).Assessment and prediction of high speed railway bridge long-term deformation based on track geometry inspection big data.(under review).",
+                    "links": [
+                        {
+                            "href": "https://rail.rutgers.edu/files/",
+                            "text": "Assessment and prediction of high speed railway bridge long-term deformation based on track geometry inspection big data."
+                        }
+                    ]
+                },
+                {
+                    "type": "img",
+                    "src": "https://rail.rutgers.edu/img/Photo_Wang.jpg",
+                    "alt": "Yuan Wang"
+                },
+                {
+                    "type": "p",
+                    "content": "Yuan Wang"
+                },
+                {
+                    "type": "p",
+                    "content": "Yuan completed his Ph.D. in Civil Engineering at Rutgers University and is now a Post Doc in China. He loves mathematics, algorithm designing and programing. He prefers to solve problems with MATLAB. He is also fond of APP designing for Android and IOS. What's more, he loves java and hates C++. His current research focuses on (1) rail measurement techniques; (2) big data application of track maintenance; (3) intelligent railway system; (4) nonlinear dynamics."
+                },
+                {
+                    "type": "p",
+                    "content": "Publication:"
+                },
+                {
+                    "type": "p",
+                    "content": "Wang, Y., Wang, P., Tang, H.Y., Liu, X. (2018).Assessment and prediction of high speed railway bridge long-term deformation based on track geometry inspection big data.(under review).",
+                    "links": [
+                        {
+                            "href": "https://rail.rutgers.edu/files/",
+                            "text": "Assessment and prediction of high speed railway bridge long-term deformation based on track geometry inspection big data."
+                        }
+                    ]
+                },
+                {
+                    "type": "p",
+                    "content": "Wang, Y., Wang, P., Wang, X., Liu, X. (2018).Position synchronization for track geometry inspection data via big-data fusion and incremental learning.Transportation Research Part C, 93: 544-565.",
+                    "links": [
+                        {
+                            "href": "https://rail.rutgers.edu/files/Wang_Big_Data.pdf",
+                            "text": "Position synchronization for track geometry inspection data via big-data fusion and incremental learning."
+                        }
+                    ]
+                },
+                {
+                    "type": "p",
+                    "content": "Wang, Y., Tang, H.Y., Wang, P., Liu, X., Chen, R. (2019).Multipoint chord reference system for track irregularity: part I - theory and methodology.Measurement, 138(2019): 240-255.",
+                    "links": [
+                        {
+                            "href": "https://rail.rutgers.edu/files/Wang_2019_Multi%20chord_part%201.pdf",
+                            "text": "Multipoint chord reference system for track irregularity: part I - theory and methodology."
+                        }
+                    ]
+                },
+                {
+                    "type": "p",
+                    "content": "Wang, Y., Tang, H.Y., Wang, P., Liu, X., Chen, R. (2019).Multipoint chord reference system for track irregularity: part II - numerical analysis.Measurement, 138(2019): 194-205.",
+                    "links": [
+                        {
+                            "href": "https://rail.rutgers.edu/files/Wang_2019_Multi%20chord_part%202.pdf",
+                            "text": "Multipoint chord reference system for track irregularity: part II - numerical analysis."
+                        }
+                    ]
+                },
+                {
+                    "type": "img",
+                    "src": "https://rail.rutgers.edu/img/Jieyi.jpg",
+                    "alt": "Jieyi Deng"
+                },
+                {
+                    "type": "p",
+                    "content": "Jieyi Deng"
+                },
+                {
+                    "type": "p",
+                    "content": "Jieyi completed her Master’s in Civil and Environment Engineering at Rutgers, the state university of New Jersey in 2018. She received her B.S from Central South University in China and developed a professional ability in modeling.  As a junior researcher, Jieyi's research interests are mainly focusing on railroad safety analysis and transportation data analysis."
+                },
+                {
+                    "type": "p",
+                    "content": "Publication:"
+                },
+                {
+                    "type": "p",
+                    "content": "Deng, J.Y., Liu, X., Jing, G.Q., Bian, Z.Y. (2018).Probabilistic risk analysis of flying ballast hazard on high-speed rail lines.Transportation Research Part C, 93: 396–409.",
+                    "links": [
+                        {
+                            "href": "https://rail.rutgers.edu/files/Deng_Bian_TRC_Flying_Ballast.pdf",
+                            "text": "Probabilistic risk analysis of flying ballast hazard on high-speed rail lines."
+                        }
+                    ]
+                },
+                {
+                    "type": "p",
+                    "content": "Deng, J.Y., Jing, G.Q., Liu, X. (2017).Probabilistic analysis of flying ballast on high-speed rail lines.2017 Joint Rail Conference, Philadelphia, PA.",
+                    "links": [
+                        {
+                            "href": "https://rail.rutgers.edu/files/JRC2017-2236.pdf",
+                            "text": "Probabilistic analysis of flying ballast on high-speed rail lines."
+                        }
+                    ]
+                },
+                {
+                    "type": "img",
+                    "src": "https://rail.rutgers.edu/img/Liwen.jpg",
+                    "alt": "Liwen Tian"
+                },
+                {
+                    "type": "p",
+                    "content": "Liwen Tian"
+                },
+                {
+                    "type": "p",
+                    "content": "Liwen completed his Master’s in Civil and Environment Engineering at Rutgers, the state university of New Jersey in 2018. He assisted in evaluating RPMs and their alternatives for optimal allocation of safety investment concerning interdependent Crash Modification Factors. He received his B.E. in Civil Engineering from Tongji University, China. Liwen also had a two-year full-time on-site experience in the Evergrande Group in Shanghai, where he worked as a project engineer."
+                },
+                {
+                    "type": "img",
+                    "src": "https://rail.rutgers.edu/img/masoud.jpg",
+                    "alt": "Masoud Imaniboossejin"
+                },
+                {
+                    "type": "p",
+                    "content": "Masoud Imaniboossejin"
+                },
+                {
+                    "type": "p",
+                    "content": "Masoud is a pursuing his M.S. with a research fellowship. His research addresses transportation safety and risk management. He is currently working on a project related to roadway transportation safety. Masoud received his B.S. degree in Civil Engineering from Sharif University of Technology in Iran, 2015."
+                },
+                {
+                    "type": "img",
+                    "src": "https://rail.rutgers.edu/img/tephoto.jpg",
+                    "alt": "Tejashree Turla"
+                },
+                {
+                    "type": "p",
+                    "content": "Tejashree Turla"
+                },
+                {
+                    "type": "p",
+                    "content": "Tejashree completed her Master’s in Civil and Environment Engineering at Rutgers, the state university of New Jersey in 2019. She is a junior researcher, assisting in the railway safety analysis and risk assessment using FRA data. She is currently working on Collision and derailment severity analysis. Tejashree received her B.E. degree in Civil Engineering from Osmania University, India."
+                },
+                {
+                    "type": "p",
+                    "content": "Publication:"
+                },
+                {
+                    "type": "p",
+                    "content": "Turla, T., Liu, X., Zhang, Z.P. (2018).Analysis of freight train collision risk in the United States.Proc IMechE Part F: J Rail and Rapid Transit, 0(0): 1–14.",
+                    "links": [
+                        {
+                            "href": "https://rail.rutgers.edu/files/Turla_JRRT_2018_CollisionRisk.pdf",
+                            "text": "Analysis of freight train collision risk in the United States."
+                        }
+                    ]
+                },
+                {
+                    "type": "p",
+                    "content": "Liu, X.,Turla, T., Zhang, Z.P. (2018).Accident-cause-specific risk analysis for rail transport of hazardous materials.Transportation Research Record, 00(0): 1–12.",
+                    "links": [
+                        {
+                            "href": "https://rail.rutgers.edu/files/Liu_TRR18.pdf",
+                            "text": "Accident-cause-specific risk analysis for rail transport of hazardous materials."
+                        }
+                    ]
+                },
+                {
+                    "type": "img",
+                    "src": "https://rail.rutgers.edu/img/christian.jpg",
+                    "alt": "Christian Higgins"
+                },
+                {
+                    "type": "p",
+                    "content": "Christian Higgins"
+                },
+                {
+                    "type": "p",
+                    "content": "Christian is a M.S. student in City and Regional Planning at Rutgers University.  He has worked on a methodological framework for truck parking development. His current research focuses on railroad infrastructure risk management and safety policy. He has a B.S. in Urban Planning from Cornell University where he additionally conducted rural public transit planning and policy analysis with a local metropolitan planning organization."
+                },
+                {
+                    "type": "p",
+                    "content": "Publication:"
+                },
+                {
+                    "type": "p",
+                    "content": "Higgins, C., Liu, X. (2018).Modeling of track geometry degradation and decisions on safety and maintenance: a literature review and possible future research directions.Proc IMechE Part F: J Rail and Rapid Transit. 232(5): 1385–1397.",
+                    "links": [
+                        {
+                            "href": "https://rail.rutgers.edu/files/HigginsC_LiuX.pdf",
+                            "text": "Modeling of track geometry degradation and decisions on safety and maintenance: a literature review and possible future research directions."
+                        }
+                    ]
+                },
+                {
+                    "type": "p",
+                    "content": "Bai, Y., Liu, X.,Higgins, C., Chiu, Y.P., Chen, J.H. (2017).Transportation cost modeling of containerized soybean exports in the United States.Transportation Research Record: Journal of the Transportation Research Board, 2611: 19-31.",
+                    "links": [
+                        {
+                            "href": "https://rail.rutgers.edu/files/bai5.pdf",
+                            "text": "Transportation cost modeling of containerized soybean exports in the United States."
+                        }
+                    ]
+                },
+                {
+                    "type": "p",
+                    "content": "Award/Honor:"
+                },
+                {
+                    "type": "p",
+                    "content": "Dwight David Eisenhower Transportation Fellowship"
+                }
+            ]
+        },
+        {
+            "title": "Graduate Assistantship Opportunities",
+            "content": [
+                {
+                    "type": "p",
+                    "content": "We encourage and welcome the best talents to join us as graduate research assistants for M.S. or Ph.D. degrees, contributing to high-impact research, including but not limited to: intermodal freight, logistics systems analysis, transportation safety (rail, highway and maritime), network modeling and infrastructure management."
+                },
+                {
+                    "title": "Qualifications",
+                    "content": [
+                        {
+                            "type": "ul",
+                            "content": [
+                                "Major in Transportation Engineering, Civil Engineering, Industrial Engineering, Statistics, Mathematics, Computer Science or related areas",
+                                "Experience in probability, statistics, operations research, optimization or computer programming is preferred but not required"
+                            ]
+                        },
+                        {
+                            "type": "ul",
+                            "content": [
+                                "Full tuition waiver, full stipend and other related university benefits",
+                                "Opportunities to work with faculty in the CEE and national transportation research center (CAIT) at Rutgers, on high-profile projects funded by government and private agencies",
+                                "Financial support to attend conferences to present research and interact with global researchers and industry professionals",
+                                "Career opportunities in research institutions, logistics companies and consulting firms"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "Application Guidelines and Deadlines",
+                    "content": [
+                        {
+                            "type": "ul",
+                            "content": [
+                                "Detailed application information can be found athttp://gradstudy.rutgers.edu/apply/overview",
+                                "Required application materials",
+                                "Transcript, CV, personal statement, 3 recommendation letters",
+                                "TOEFL and GRE test scores",
+                                "Application deadlines",
+                                "Master Degree:https://grad.admissions.rutgers.edu/GraduateProgram/Detail.aspx?code=16180&degree=MS",
+                                "Ph.D. Degree:https://grad.admissions.rutgers.edu/GraduateProgram/Detail.aspx?code=16180&degree=PHD"
+                            ]
+                        },
+                        {
+                            "type": "ul",
+                            "content": [
+                                "Transcript, CV, personal statement, 3 recommendation letters",
+                                "TOEFL and GRE test scores"
+                            ]
+                        },
+                        {
+                            "type": "ul",
+                            "content": [
+                                "Master Degree:https://grad.admissions.rutgers.edu/GraduateProgram/Detail.aspx?code=16180&degree=MS",
+                                "Ph.D. Degree:https://grad.admissions.rutgers.edu/GraduateProgram/Detail.aspx?code=16180&degree=PHD"
+                            ]
+                        },
+                        {
+                            "type": "p",
+                            "content": "The interested applicant may contact Professor Xiang Liu via email (xiang.liu@rutgers.edu), attaching his/her CV and transcript. However, the final decision will not be made until the applicant completes official application process through Rutgers University."
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "resources": {}
+}

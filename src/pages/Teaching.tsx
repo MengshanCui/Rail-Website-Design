@@ -17,23 +17,70 @@ const navItems = [
 
 const courses = [
   {
-    title: "Railway Engineering Fundamentals",
-    code: "CE 401",
-    description: "Introduction to railway engineering principles and practices...",
-    instructor: "Dr. John Smith"
+    "date": "Fall 2017",
+    "title": "Engineering Risk Analysis in Transportation Systems",
+    "category": "Teaching",
+    "image": "https://rail.rutgers.edu/img/NotExist.jpg",
+    "description": "This course provides an introduction to the concepts, theories, methodologies and applications of engineering risk analysis in the context of multimodal transportation safety. The topics include Bayesian Network, Econometrics, Fault Tree, Event Tree and Empirical Bayes.",
+    "link": "#"
   },
   {
-    title: "Advanced Rail Systems",
-    code: "CE 501",
-    description: "Advanced topics in railway systems and infrastructure...",
-    instructor: "Dr. Sarah Johnson"
+    "date": "Fall 2017",
+    "title": "EngTrack Engineering",
+    "category": "Teaching",
+    "image": "https://rail.rutgers.edu/img/Group_Photo.jpeg",
+    "description": "This course teaches fundamentals of railroad track engineering, including rail, tie, ballast, roadbed, track geometry layout, as well as track data analytics and safety.",
+    "link": "#"
   },
   {
-    title: "Rail Safety and Maintenance",
-    code: "CE 402",
-    description: "Railway safety protocols and maintenance procedures...",
-    instructor: "Dr. Michael Chen"
-  }
+    "date": "Spring 2017",
+    "title": "Transportation Engineering I",
+    "category": "Teaching",
+    "image": "https://rail.rutgers.edu/img/S2017.jpg",
+    "description": "This course provides an introduction to the design and operations of transportation systems, and materials selection, design, and management of transportation infrastructure.",
+    "link": "#"
+  },
+  {
+    "date": "Fall 2016",
+    "title": "Rail Transportation System",
+    "category": "Teaching",
+    "image": "https://rail.rutgers.edu/img/Fall2016.jpg",
+    "description": "This course covers the fundamentals of railroad transportation and engineering. The topics include railroad efficiency and economics, track infrastructure, rail vehicle, traffic control system, highway-rail grade crossing, and railroad safety.",
+    "link": "#"
+  },
+  {
+    "date": "Spring 2016",
+    "title": "Transportation Engineering II",
+    "category": "Teaching",
+    "image": "https://rail.rutgers.edu/img/teach4.jpg",
+    "description": "This course provides an introduction to multimodal transportation systems (roadway, railway, maritime). The students work on an extensive, customized capstone research project that addresses a unique transportation research problem, ranging from railway safety, parking data analysis to infrastructure management.",
+    "link": "#"
+  },
+  {
+    "date": "Fall 2015",
+    "title": "Engineering Risk Analysis in Transportation Systems",
+    "category": "Teaching",
+    "image": "https://rail.rutgers.edu/img/teach3.jpg",
+    "description": "This course provides an introduction to the concepts, theories, methodologies and applications of engineering risk analysis in the context of multimodal transportation safety. Upon successful completion of this course, students would be able to perform mode-specific and multimodal transportation engineering risk analyses.",
+    "link": "#"
+  },
+  {
+    "date": "Spring 2015",
+    "title": "Rail Transportation System",
+    "category": "Teaching",
+    "image": "https://rail.rutgers.edu/img/teach2.jpg",
+    "description": "This course covers the fundamentals of railroad transportation and engineering. The topics include railroad efficiency and economics, track infrastructure, rail vehicle, traffic control system, highway-rail grade crossing, and railroad safety.",
+    "link": "#"
+  },
+  {
+    "date": "Fall 2014",
+    "title": "Freight Transportation Systems",
+    "category": "Teaching",
+    "image": "https://rail.rutgers.edu/img/teach1.png",
+    "description": "This advanced, graduate-level course provides an introduction to multimodal (rail, road, waterway) freight transportation systems. This course comprises three inter-connected parts: 1) introduce basic modal-specific concepts and industry development; 2) explain widely used modeling techniques used in freight transportation and logistics; and 3) apply the methodologies to an emerging high-profile transportation research topic through a term project.",
+    "link": "#"
+  },
+  
 ];
 
 export default function Teaching() {
@@ -86,6 +133,15 @@ export default function Teaching() {
         {courses.map((course, index) => (
           <Card key={index} className="p-6 border border-gray-200/70 shadow-sm hover:shadow-md transition">
             <CardBody className="space-y-3">
+              {course.image && (
+                <div className="relative w-full h-48 mb-4 rounded-lg overflow-hidden">
+                  <img 
+                    src={course.image} 
+                    alt={course.title}
+                    className="w-full h-full object-cover"
+                  />
+                </div>
+              )}
               <div className="flex items-center gap-3">
                 <div className="p-2 rounded-full bg-[#A31F34]/10 text-[#A31F34]">
                   <Icon icon="lucide:book-open" className="text-2xl" />
@@ -94,9 +150,7 @@ export default function Teaching() {
                   {course.title}
                 </h2>
               </div>
-              <p className="text-[#A31F34] font-medium">{course.code}</p>
               <p className="text-gray-600 text-sm">{course.description}</p>
-              <p className="text-gray-500 text-sm">Instructor: {course.instructor}</p>
               <Link href="#" className="text-[#A31F34] text-sm font-medium inline-flex items-center">
                 Learn more
                 <Icon icon="lucide:arrow-right" className="ml-1" />

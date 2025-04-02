@@ -7,10 +7,49 @@ export default function App() {
     { name: "Home", href: "/" },
     { name: "News", href: "/news" },
     { name: "Research", href: "/research" },
-    { name: "Alumni", href: "/alumni" },
+    { name: "Members", href: "/members" },
     { name: "Teaching", href: "/teaching" },
     { name: "Publications", href: "/publications" },
     { name: "Resources", href: "/resources" }
+  ];
+
+  const researchAreas = [
+    {
+      title: "Railway Infrastructure Risk Management",
+      icon: "mdi:train",
+      description: "This project develops an implementable risk management model for assessing track safety risk, in support of the optimization of track inspection and maintenance. The current research focuses on broken rails, which are the leading derailment cause on U.S. freight railroads.",
+      image: "https://rail.rutgers.edu/img/newicture1.png"
+    },
+    {
+      title: "Advanced Train Control Technologies and Risk",
+      icon: "mdi:train-variant",
+      description: "The objective of this research is to evaluate the safety benefit and cost and operational impact of implementing positive train control (PTC) under various operating scenarios, such as restricted speed operations.",
+      image: "https://rail.rutgers.edu/img/NewPicture2.png"
+    },
+    {
+      title: "Intelligent Railroads, Safety and Security",
+      icon: "mdi:shield-check",
+      description: "The railway industry in stepping into the stage of the Digital Railways, which we call the Internet of Railway Things (IoRT). This project convened railroad experts and analysts to evaluate the safety and security risk profiles of emerging connected railroad technologies, and thus recommend implementable risk mitigation actions.",
+      image: "https://rail.rutgers.edu/img/newPicture3.png"
+    },
+    {
+      title: "Railroad Big Data and Artificial Intelligence",
+      icon: "mdi:database",
+      description: "This research develops advanced big data and artificial intelligence techniques to turn railroad big data into useful information that leads to risk-informed safety decisions. We also train the next generation of railroad experts skilled at data analytics.",
+      image: "https://rail.rutgers.edu/img/bigdata1.jpg"
+    },
+    {
+      title: "Freight Railroads, Economics and Logistics",
+      icon: "mdi:package-variant",
+      description: "This project studies the economic efficiency of freight rail transportation and develops operations research methods to optimally allocate limited resources for maximizing the economic benefits of freight rail projects.",
+      image: "https://rail.rutgers.edu/img/p5.png"
+    },
+    {
+      title: "Hazardous Materials Transportation Risk Analysis",
+      icon: "mdi:alert-circle",
+      description: "This project develops a GIS-based risk assessment tool for rail transport of flammable liquids. The tool estimates the average recurrence interval of a release incident, and the affected population. This work is sponsored by the Center for Advanced Infrastructure and Transportation (CAIT) at Rutgers University.",
+      image: "https://rail.rutgers.edu/img/project2.png"
+    }
   ];
 
   return (
@@ -92,42 +131,11 @@ export default function App() {
             Research Areas
           </h2>
           <p className="text-gray-600 max-w-2xl mx-auto">
-            Discover our cutting-edge research across multiple disciplines
+            Discover our cutting-edge research across multiple disciplines in railway engineering
           </p>
         </div>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-          {[
-            {
-              title: "Artificial Intelligence",
-              icon: "gravity-ui:robot",
-              description: "Machine learning, neural networks, and cognitive computing"
-            },
-            {
-              title: "Quantum Computing",
-              icon: "gravity-ui:cube-3d",
-              description: "Next-generation quantum systems and algorithms"
-            },
-            {
-              title: "Biotechnology",
-              icon: "gravity-ui:dna",
-              description: "Advanced biological engineering and synthetic biology"
-            },
-            {
-              title: "Nanotechnology",
-              icon: "gravity-ui:molecule",
-              description: "Molecular engineering and nanoscale materials"
-            },
-            {
-              title: "Climate Science",
-              icon: "gravity-ui:globe",
-              description: "Climate change research and sustainable solutions"
-            },
-            {
-              title: "Robotics",
-              icon: "gravity-ui:robot-arm",
-              description: "Autonomous systems and human-robot interaction"
-            }
-          ].map((area) => (
+          {researchAreas.map((area) => (
             <Card 
               key={area.title}
               isPressable
@@ -136,13 +144,20 @@ export default function App() {
               className="group hover:scale-105 transition-all duration-300 border border-gray-200/50 bg-white/50 backdrop-blur-sm"
             >
               <CardBody className="p-6">
+                <div className="relative aspect-video mb-4 overflow-hidden rounded-lg">
+                  <Image
+                    src={area.image}
+                    alt={area.title}
+                    className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-300"
+                  />
+                </div>
                 <div className="flex items-center gap-4 mb-4">
                   <div className="p-3 rounded-full bg-[#A31F34]/10 text-[#A31F34] group-hover:bg-[#A31F34] group-hover:text-white transition-colors">
                     <Icon icon={area.icon} className="text-2xl" />
                   </div>
                   <h3 className="text-xl font-semibold">{area.title}</h3>
                 </div>
-                <p className="text-gray-600">
+                <p className="text-gray-600 line-clamp-3">
                   {area.description}
                 </p>
                 <div className="mt-4 flex items-center text-[#A31F34] font-medium">
@@ -197,18 +212,34 @@ export default function App() {
                 </ul>
               </div>
               <div>
-                <h4 className="font-bold text-lg mb-4">Follow Us</h4>
-                <div className="flex gap-4">
-                  <Link href="#" className="text-gray-400 hover:text-white transition-colors">
-                    <Icon icon="lucide:twitter" className="text-2xl" />
-                  </Link>
-                  <Link href="#" className="text-gray-400 hover:text-white transition-colors">
-                    <Icon icon="lucide:linkedin" className="text-2xl" />
-                  </Link>
-                  <Link href="#" className="text-gray-400 hover:text-white transition-colors">
-                    <Icon icon="lucide:youtube" className="text-2xl" />
-                  </Link>
-                </div>
+                <h4 className="font-bold text-lg mb-4">Contact Us</h4>
+                <ul className="space-y-2">
+                  <li className="flex items-start gap-2">
+                    <Icon icon="lucide:phone" className="text-gray-400 mt-1" />
+                    <div>
+                      <p className="text-gray-400 font-medium">Phone:</p>
+                      <p className="text-gray-400">848-445-2868</p>
+                    </div>
+                  </li>
+                  <li className="flex items-start gap-2">
+                    <Icon icon="lucide:mail" className="text-gray-400 mt-1" />
+                    <div>
+                      <p className="text-gray-400 font-medium">Email:</p>
+                      <a href="mailto:xiang.liu@rutgers.edu" className="text-gray-400 hover:text-white transition-colors">
+                        xiang.liu@rutgers.edu
+                      </a>
+                    </div>
+                  </li>
+                  <li className="flex items-start gap-2">
+                    <Icon icon="lucide:map-pin" className="text-gray-400 mt-1" />
+                    <div>
+                      <p className="text-gray-400 font-medium">Office:</p>
+                      <p className="text-gray-400">500 Bartholomew Road,</p>
+                      <p className="text-gray-400">Room 428D,</p>
+                      <p className="text-gray-400">Piscataway, NJ 08854</p>
+                    </div>
+                  </li>
+                </ul>
               </div>
             </div>
           </div>
